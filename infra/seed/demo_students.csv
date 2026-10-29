@@ -1,0 +1,10 @@
+student_institution_id,student_name,apaar_id,date_of_birth,gender,admission_category,nationality,supernumerary,admission_date,sponsor_name
+AIT-001,Aarav Sharma,APAAR-10000001,2004-05-17,M,GEN,Indian,No,2026-07-01,
+AIT-002,Meera Nair,APAAR-10000002,2003-11-09,F,GEN,Indian,No,2026-07-01,
+AIT-003,Kabir Das,APAAR-10000003,2004-02-20,M,GEN,Indian,No,2026-07-01,
+AIT-004,Ishita Rao,APAAR-10000004,2003-09-01,F,NRI,Indian,No,2026-07-01,
+AIT-005,Rohan Mehta,APAAR-10000005,2004-01-14,M,OCI,Indian,No,2026-07-01,
+AIT-006,Ananya Sen,APAAR-10000006,2004-06-23,F,GEN,Indian,No,2026-07-01,
+AIT-007,Varun Kapoor,APAAR-99999999,2004-03-12,M,GEN,Indian,Yes,2026-07-01,
+AIT-008,Neha Kapoor,,2004-08-30,F,GEN,Indian,No,2026-07-01,
+AIT-009,Arjun Roy,APAAR-10000002,2003-11-09,M,GEN,Indian,No,2026-07-01,
